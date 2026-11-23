@@ -6,8 +6,8 @@
   "status": "running",
   "collectionStatus": "running",
   "event": "workflow_dispatch",
-  "startedAt": "2026-11-23T14:51:03.565966+00:00",
-  "updatedAt": "2026-11-23T14:51:03.565966+00:00",
-  "expiresAt": "2026-11-23T15:16:03.565966+00:00",
+  "startedAt": "2026-11-23T15:53:12.751340+00:00",
+  "updatedAt": "2026-11-23T15:53:12.751340+00:00",
+  "expiresAt": "2026-11-23T16:18:12.751340+00:00",
   "message": "실제 수집 실행 중"
 }
